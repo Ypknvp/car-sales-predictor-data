@@ -1,4 +1,4 @@
-
+GrowthLink
 # Car Sales Price Predictor
 
 This project predicts the car purchase amount based on user input features such as age, salary, credit card debt, and net worth using a Random Forest Regressor model.
