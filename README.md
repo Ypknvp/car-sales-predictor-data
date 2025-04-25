@@ -1,4 +1,3 @@
-# car-sales-predictor-data
 
 # Car Sales Price Predictor
 
